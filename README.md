@@ -1,7 +1,7 @@
-
 <div align="center">
-<img src="https://drive.google.com/file/d/1TB3ebj0LWyng-pQ8MVvksK5zirsrONuR/view?usp=sharing" align="center" style="width: 100%" />
-</div>  
+  <img src="https://file:///C:/Users/vijay/Downloads/MAJJI%20VIJAYENDRA.png" align="center" style="width: 100%" />
+</div>
+ 
   
 
 
