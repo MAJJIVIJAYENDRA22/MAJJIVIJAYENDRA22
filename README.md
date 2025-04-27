@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://file:///C:/Users/vijay/Downloads/MAJJI%20VIJAYENDRA.png" align="center" style="width: 100%" />
+  <img src="https://github.com/MAJJIVIJAYENDRA22/MAJJIVIJAYENDRA22/blob/main/MAJJI%20VIJAYENDRA.png?raw=true" align="center" style="width: 100%" />
 </div>
+
  
   
 
